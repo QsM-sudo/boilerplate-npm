@@ -16,7 +16,7 @@
 	"description": "This is amazaing Project , begining of certification",
 	"keywords": ["freecodecamp", "informative", "knowledge"],
 	"author": "QsM-sudo",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
